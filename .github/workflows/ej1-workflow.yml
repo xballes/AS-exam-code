@@ -4,7 +4,7 @@ on:
     branches:
       - main
 jobs:
-  trab:
+  comandos:
     runs-on: ubuntu-latest
     steps:
       - name: Descargar el codigo
